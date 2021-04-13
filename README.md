@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[google](https://www.google.com/ "target=_blank")
+% md <a href=" https://google.com "target="_blank"> enlace de Google </a>
 
 <!---
 mimolmon/mimolmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
