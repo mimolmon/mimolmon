@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## Table of Contents
-<a  href="https://twitter.com/home:target" name="Twitter" target="_blank"></a>
-### General Info
+[google](https://www.google.com/ "search")
+
 <!---
 mimolmon/mimolmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
