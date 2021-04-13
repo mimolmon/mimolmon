@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-[twiter](https://twitter.com/home:target="_blank")
+
 ## Table of Contents
-<a name="general-info"></a>
+<a  href="https://twitter.com/home:target" name="Twitter" target="_blank"></a>
 ### General Info
 <!---
 mimolmon/mimolmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
