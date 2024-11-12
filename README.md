@@ -17,16 +17,9 @@ I love music, dancing, crafts
 
 ## Social media :
 
-<a href="https://twitter.com/mimolmon" target="_blank">
-  <img align="left" alt="Milena| Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/milena-montoya/" target="_blank">
   <img align="left" alt="Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://mimomo.medium.com/" target="_blank">
-  <img align="left" alt="Medium" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
 <br/>
 
 ***
