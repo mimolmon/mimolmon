@@ -1,4 +1,4 @@
-### Hi there, I'm Milena Molina Montoya Full-Stack Software Developer👋
+### Hi there, I'm Milena Molina Montoya Software Developer👋
 Hello world, as a software developer I am constantly learning, I am excited about this world ..
 I love music, dancing, crafts
 
